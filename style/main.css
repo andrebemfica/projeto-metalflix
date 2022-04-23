@@ -51,8 +51,7 @@ header nav a:hover{
 /*filme principal*/
 main .filme-principal{
     font-size: 18px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url('/img/metallica-capa.jpg');
-
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url(../img/metallica-capa.jpg);
     
     background-size: cover;
     
@@ -118,7 +117,7 @@ main .filme-principal{
 
 main .info-show{
     font-size: 18px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url('/img/info-capa.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url(../img/info-capa.jpg);
 
     height: 560px;
     background-size: cover;
